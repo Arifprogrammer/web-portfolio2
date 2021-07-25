@@ -1,0 +1,78 @@
+*{
+    font-family: 'Otomanopee One', sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+.first_sec{
+    height: 99vh;
+    width: 99.80%;
+    background-image: url(./personal-website/header-bg.png);
+}
+.left_side{
+    padding-left: 300px;
+    padding-top: 380px;
+    width: 30%;
+    height: 40%;
+    float: left;
+}
+.font_color{
+    color: rgb(240, 60, 90);
+}
+.left_side h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+.left_side p{
+    color: rgb(85, 84, 84);
+    margin-bottom: 45px;
+}
+.first_button{
+    padding: 8px 20px 8px 20px;
+    color: whitesmoke;
+    background-image:linear-gradient(45deg,rgb(175, 37, 90),rgb(255, 0, 140)) ;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.right_side{
+    width: 35%;
+    height: 75%;
+    padding-top: 180px;
+    padding-left: 180px;
+}
+.second_sec{
+    background-image: url(./personal-website/biography-bg.png);
+    height: 100vh;
+    background-size: cover;
+}
+.second_left_side{
+    float: left;
+    width: 37%;
+    height: 75%;
+    padding-top: 110px;
+    padding-left: 150px;
+}
+.second_left_side_img{
+    width: 85%;
+    height: 780px;
+}
+.second_right_side{
+    height: 600px;
+    margin-left: 950px;
+    width: 35%;
+    padding-top: 260px;
+}
+.second_right_side h2{
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.second_right_side p{
+    color: rgb(85, 84, 84);
+    margin-bottom: 50px;
+}
+.second_button{
+    padding: 10px 40px 10px 40px;
+    color: whitesmoke;
+    background-image:linear-gradient(45deg,rgb(175, 37, 90),rgb(255, 0, 140)) ;
+    text-decoration: none;
+    border-radius: 3px;
+}
